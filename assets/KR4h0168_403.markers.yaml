@@ -3277,6 +3277,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 4035, content: '[:#AS-FBEE:●]', id: KR4h0168_krp_403-bkkkrnonc283}
   - {type: punctuation, offset: 4036, content: ), id: KR4h0168_krp_403-bkkpn850}
   - {type: 'kr:non-cjk', offset: 4036, content: '[:#AS-FBEC:●]', id: KR4h0168_krp_403-bkkkrnonc284}
+  - {type: 'voice:problem', offset: 4036, length: 0, id: KR4h0168_bkk_403-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 4036 with no matching '('}
   - {type: 'kr:non-cjk', offset: 4037, content: '[:#AS-FBEC:●]', id: KR4h0168_krp_403-bkkkrnonc285}
   - {type: 'kr:non-cjk', offset: 4038, content: '[:#AS-FBF0:●]', id: KR4h0168_krp_403-bkkkrnonc286}
   - {type: line-break, offset: 4040, content: '', id: KR4h0168_NKFB_0403-15b18}
@@ -5257,4 +5258,4 @@ markers:
 
       ', id: KR4h0168_krp_403-bkkkrnewl614}
   back: []
-hash: sha256:3a108a3213e634dbbb6745680487b7aa7aa2e5946b30add0fd76ffd3a184ec8a
+hash: sha256:6173fc4a4116bbe5980af5a7484e720b6cd16ba9ba49b5544a8e1ff322092f71

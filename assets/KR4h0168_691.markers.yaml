@@ -50,6 +50,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4h0168_NKFB_0691-01a01}
   - {type: indent, offset: 14, content: 　, id: KR4h0168_krp_691-bkkind1}
   - {type: punctuation, offset: 16, content: (, id: KR4h0168_krp_691-bkkpn1}
+  - {type: voice, offset: 16, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 17, content: ), id: KR4h0168_krp_691-bkkpn2}
   - {type: line-break, offset: 17, content: '', id: KR4h0168_NKFB_0691-01a02}
   - {type: paragraph-break, offset: 17, content: '
@@ -1246,6 +1247,7 @@ markers:
       ', id: KR4h0168_krp_691-bkkkrnewl139}
   - {type: line-break, offset: 2398, content: '', id: KR4h0168_NKFB_0691-07b05}
   - {type: punctuation, offset: 2401, content: (, id: KR4h0168_krp_691-bkkpn465}
+  - {type: voice, offset: 2401, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2402, content: ), id: KR4h0168_krp_691-bkkpn466}
   - {type: punctuation, offset: 2404, content: 。, id: KR4h0168_krp_691-bkkpn467}
   - {type: punctuation, offset: 2412, content: 。, id: KR4h0168_krp_691-bkkpn468}
@@ -1338,6 +1340,7 @@ markers:
   - {type: punctuation, offset: 2618, content: 。, id: KR4h0168_krp_691-bkkpn505}
   - {type: punctuation, offset: 2623, content: 。, id: KR4h0168_krp_691-bkkpn506}
   - {type: punctuation, offset: 2623, content: (, id: KR4h0168_krp_691-bkkpn507}
+  - {type: voice, offset: 2623, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2624, content: ), id: KR4h0168_krp_691-bkkpn508}
   - {type: substitution, offset: 2627, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: punctuation, offset: 2628, content: 。, id: KR4h0168_krp_691-bkkpn509}
@@ -4148,4 +4151,4 @@ markers:
 
       ', id: KR4h0168_krp_691-bkkkrnewl463}
   back: []
-hash: sha256:b13bf1a0ebf042087b465a0a26e71361baf38267ff918e978b8d2253b4e72783
+hash: sha256:d1d6b65840670d7f4dc87fc766105f68c9ef2748df1d7331ad3734d80b994c7f

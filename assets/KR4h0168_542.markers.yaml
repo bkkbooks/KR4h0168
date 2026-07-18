@@ -50,6 +50,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4h0168_NKFB_0542-01a01}
   - {type: indent, offset: 14, content: 　, id: KR4h0168_krp_542-bkkind1}
   - {type: punctuation, offset: 17, content: (, id: KR4h0168_krp_542-bkkpn1}
+  - {type: voice, offset: 17, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR4h0168_krp_542-bkkpn2}
   - {type: line-break, offset: 18, content: '', id: KR4h0168_NKFB_0542-01a02}
   - {type: paragraph-break, offset: 18, content: '
@@ -1382,6 +1383,7 @@ markers:
   - {type: punctuation, offset: 2090, content: 。, id: KR4h0168_krp_542-bkkpn404}
   - {type: punctuation, offset: 2094, content: 。, id: KR4h0168_krp_542-bkkpn405}
   - {type: punctuation, offset: 2097, content: (, id: KR4h0168_krp_542-bkkpn406}
+  - {type: voice, offset: 2097, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2100, content: ), id: KR4h0168_krp_542-bkkpn407}
   - {type: 'kr:newline', offset: 2101, content: '
 
@@ -2443,8 +2445,10 @@ markers:
   - {type: line-break, offset: 3604, content: '', id: KR4h0168_NKFB_0542-12b03}
   - {type: punctuation, offset: 3605, content: 。, id: KR4h0168_krp_542-bkkpn703}
   - {type: punctuation, offset: 3605, content: (, id: KR4h0168_krp_542-bkkpn704}
+  - {type: voice, offset: 3605, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 3608, content: ), id: KR4h0168_krp_542-bkkpn705}
   - {type: punctuation, offset: 3612, content: (, id: KR4h0168_krp_542-bkkpn706}
+  - {type: voice, offset: 3612, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 3615, content: ), id: KR4h0168_krp_542-bkkpn707}
   - {type: punctuation, offset: 3616, content: 。, id: KR4h0168_krp_542-bkkpn708}
   - {type: punctuation, offset: 3620, content: 。, id: KR4h0168_krp_542-bkkpn709}
@@ -3553,4 +3557,4 @@ markers:
 
       ', id: KR4h0168_krp_542-bkkkrnewl414}
   back: []
-hash: sha256:b1f3a38c575d2c3acf4434a3e3f38171d6f0827c11b5e80d7029f801e20de89e
+hash: sha256:2928dd200433f2f3c8aa697c35b25c25a16c0ad13f283f8e1e005a3a8806491b

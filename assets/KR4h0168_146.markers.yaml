@@ -2499,6 +2499,7 @@ markers:
   - {type: punctuation, offset: 5287, content: 。, id: KR4h0168_krp_146-bkkpn898}
   - {type: punctuation, offset: 5291, content: 。, id: KR4h0168_krp_146-bkkpn899}
   - {type: punctuation, offset: 5291, content: (, id: KR4h0168_krp_146-bkkpn900}
+  - {type: voice, offset: 5291, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 5294, content: ), id: KR4h0168_krp_146-bkkpn901}
   - {type: punctuation, offset: 5298, content: 。, id: KR4h0168_krp_146-bkkpn902}
   - {type: substitution, offset: 5301, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
@@ -3375,6 +3376,7 @@ markers:
   - {type: punctuation, offset: 7071, content: 。, id: KR4h0168_krp_146-bkkpn1269}
   - {type: punctuation, offset: 7079, content: 。, id: KR4h0168_krp_146-bkkpn1270}
   - {type: punctuation, offset: 7084, content: (, id: KR4h0168_krp_146-bkkpn1271}
+  - {type: voice, offset: 7084, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 7085, content: ), id: KR4h0168_krp_146-bkkpn1272}
   - {type: punctuation, offset: 7086, content: 。, id: KR4h0168_krp_146-bkkpn1273}
   - {type: 'kr:newline', offset: 7089, content: '
@@ -3645,6 +3647,7 @@ markers:
   - {type: punctuation, offset: 7465, content: 。, id: KR4h0168_krp_146-bkkpn1357}
   - {type: punctuation, offset: 7471, content: 。, id: KR4h0168_krp_146-bkkpn1358}
   - {type: punctuation, offset: 7476, content: (, id: KR4h0168_krp_146-bkkpn1359}
+  - {type: voice, offset: 7476, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 7479, content: ), id: KR4h0168_krp_146-bkkpn1360}
   - {type: punctuation, offset: 7480, content: 。, id: KR4h0168_krp_146-bkkpn1361}
   - {type: 'kr:newline', offset: 7480, content: '
@@ -3728,9 +3731,11 @@ markers:
   - {type: punctuation, offset: 7642, content: 。, id: KR4h0168_krp_146-bkkpn1398}
   - {type: punctuation, offset: 7646, content: 。, id: KR4h0168_krp_146-bkkpn1399}
   - {type: punctuation, offset: 7648, content: (, id: KR4h0168_krp_146-bkkpn1400}
+  - {type: voice, offset: 7648, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 7651, content: ), id: KR4h0168_krp_146-bkkpn1401}
   - {type: punctuation, offset: 7653, content: 。, id: KR4h0168_krp_146-bkkpn1402}
   - {type: punctuation, offset: 7653, content: (, id: KR4h0168_krp_146-bkkpn1403}
+  - {type: voice, offset: 7653, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 7656, content: ), id: KR4h0168_krp_146-bkkpn1404}
   - {type: 'kr:newline', offset: 7658, content: '
 
@@ -3740,6 +3745,7 @@ markers:
   - {type: punctuation, offset: 7664, content: 。, id: KR4h0168_krp_146-bkkpn1406}
   - {type: punctuation, offset: 7668, content: 。, id: KR4h0168_krp_146-bkkpn1407}
   - {type: punctuation, offset: 7668, content: (, id: KR4h0168_krp_146-bkkpn1408}
+  - {type: voice, offset: 7668, length: 3, name: note, id: n6}
   - {type: punctuation, offset: 7671, content: ), id: KR4h0168_krp_146-bkkpn1409}
   - {type: punctuation, offset: 7675, content: 。, id: KR4h0168_krp_146-bkkpn1410}
   - {type: punctuation, offset: 7679, content: 。, id: KR4h0168_krp_146-bkkpn1411}
@@ -3944,6 +3950,7 @@ markers:
   - {type: punctuation, offset: 8139, content: 。, id: KR4h0168_krp_146-bkkpn1510}
   - {type: punctuation, offset: 8143, content: 。, id: KR4h0168_krp_146-bkkpn1511}
   - {type: punctuation, offset: 8143, content: (, id: KR4h0168_krp_146-bkkpn1512}
+  - {type: voice, offset: 8143, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 8144, content: ), id: KR4h0168_krp_146-bkkpn1513}
   - {type: punctuation, offset: 8147, content: 。, id: KR4h0168_krp_146-bkkpn1514}
   - {type: punctuation, offset: 8151, content: 。, id: KR4h0168_krp_146-bkkpn1515}
@@ -4394,4 +4401,4 @@ markers:
 
       ', id: KR4h0168_krp_146-bkkkrnewl521}
   back: []
-hash: sha256:d4f079702ee31d7e7b5205b31b320ef3d65f7eaf5044b760bea232aae1b91fc8
+hash: sha256:fce22340422e05ee5f3e6dc60c0a13e9ba745985b576beddf5ac70f22262413d

@@ -50,6 +50,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4h0168_NKFB_0244-01a01}
   - {type: indent, offset: 14, content: 　, id: KR4h0168_krp_244-bkkind1}
   - {type: punctuation, offset: 16, content: (, id: KR4h0168_krp_244-bkkpn1}
+  - {type: voice, offset: 16, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 17, content: ), id: KR4h0168_krp_244-bkkpn2}
   - {type: line-break, offset: 17, content: '', id: KR4h0168_NKFB_0244-01a02}
   - {type: paragraph-break, offset: 17, content: '
@@ -2026,6 +2027,7 @@ markers:
   - {type: punctuation, offset: 3935, content: 。, id: KR4h0168_krp_244-bkkpn756}
   - {type: punctuation, offset: 3939, content: 。, id: KR4h0168_krp_244-bkkpn757}
   - {type: punctuation, offset: 3941, content: (, id: KR4h0168_krp_244-bkkpn758}
+  - {type: voice, offset: 3941, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3942, content: ), id: KR4h0168_krp_244-bkkpn759}
   - {type: punctuation, offset: 3944, content: 。, id: KR4h0168_krp_244-bkkpn760}
   - {type: substitution, offset: 3946, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
@@ -2809,6 +2811,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 5439, content: ']', id: KR4h0168_krp_244-bkkkrnonc100}
   - {type: punctuation, offset: 5439, content: 。, id: KR4h0168_krp_244-bkkpn1052}
   - {type: punctuation, offset: 5439, content: (, id: KR4h0168_krp_244-bkkpn1053}
+  - {type: voice, offset: 5439, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5440, content: ), id: KR4h0168_krp_244-bkkpn1054}
   - {type: punctuation, offset: 5444, content: 。, id: KR4h0168_krp_244-bkkpn1055}
   - {type: punctuation, offset: 5448, content: 。, id: KR4h0168_krp_244-bkkpn1056}
@@ -4140,4 +4143,4 @@ markers:
 
       ', id: KR4h0168_krp_244-bkkkrnewl484}
   back: []
-hash: sha256:613a2108adbf5dbdd1edc1adc0f36453418ec2908f7f045f09fd7a036ea713d1
+hash: sha256:7832ea0f259b144a30c8ec445c5681aa997a772b51bda990d5b527fdd37f6526

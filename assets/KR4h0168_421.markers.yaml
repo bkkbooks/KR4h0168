@@ -1322,6 +1322,7 @@ markers:
   - {type: punctuation, offset: 2663, content: 。, id: KR4h0168_krp_421-bkkpn486}
   - {type: punctuation, offset: 2667, content: 。, id: KR4h0168_krp_421-bkkpn487}
   - {type: punctuation, offset: 2669, content: (, id: KR4h0168_krp_421-bkkpn488}
+  - {type: voice, offset: 2669, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2670, content: ), id: KR4h0168_krp_421-bkkpn489}
   - {type: punctuation, offset: 2671, content: 。, id: KR4h0168_krp_421-bkkpn490}
   - {type: 'kr:newline', offset: 2674, content: '
@@ -1353,6 +1354,7 @@ markers:
   - {type: punctuation, offset: 2722, content: 。, id: KR4h0168_krp_421-bkkpn501}
   - {type: punctuation, offset: 2727, content: 。, id: KR4h0168_krp_421-bkkpn502}
   - {type: punctuation, offset: 2727, content: (, id: KR4h0168_krp_421-bkkpn503}
+  - {type: voice, offset: 2727, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2730, content: ), id: KR4h0168_krp_421-bkkpn504}
   - {type: substitution, offset: 2731, original: 謩, replacement: 謨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18512}}
   - {type: punctuation, offset: 2732, content: 。, id: KR4h0168_krp_421-bkkpn505}
@@ -1708,6 +1710,7 @@ markers:
       ', id: KR4h0168_krp_421-bkkkrnewl190}
   - {type: line-break, offset: 3412, content: '', id: KR4h0168_NKFB_0421-10a09}
   - {type: punctuation, offset: 3415, content: (, id: KR4h0168_krp_421-bkkpn640}
+  - {type: voice, offset: 3415, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3416, content: ), id: KR4h0168_krp_421-bkkpn641}
   - {type: punctuation, offset: 3420, content: 。, id: KR4h0168_krp_421-bkkpn642}
   - {type: punctuation, offset: 3424, content: 。, id: KR4h0168_krp_421-bkkpn643}
@@ -2780,4 +2783,4 @@ markers:
 
       ', id: KR4h0168_krp_421-bkkkrnewl319}
   back: []
-hash: sha256:20ff7dce0e4681e0c62b916eb79fef70aebe1ba2082f4f4962283016b551a0cd
+hash: sha256:a9a87f5387da798e6de8ccd0f4e541ec0630dc445150191c18af6338605f373b

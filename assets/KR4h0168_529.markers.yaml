@@ -50,6 +50,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4h0168_NKFB_0529-01a01}
   - {type: indent, offset: 14, content: 　, id: KR4h0168_krp_529-bkkind1}
   - {type: punctuation, offset: 16, content: (, id: KR4h0168_krp_529-bkkpn1}
+  - {type: voice, offset: 16, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 17, content: ), id: KR4h0168_krp_529-bkkpn2}
   - {type: line-break, offset: 17, content: '', id: KR4h0168_NKFB_0529-01a02}
   - {type: paragraph-break, offset: 17, content: '
@@ -558,6 +559,7 @@ markers:
   - {type: punctuation, offset: 749, content: 。, id: KR4h0168_krp_529-bkkpn149}
   - {type: punctuation, offset: 753, content: 。, id: KR4h0168_krp_529-bkkpn150}
   - {type: punctuation, offset: 756, content: (, id: KR4h0168_krp_529-bkkpn151}
+  - {type: voice, offset: 756, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 759, content: ), id: KR4h0168_krp_529-bkkpn152}
   - {type: 'kr:newline', offset: 765, content: '
 
@@ -1343,6 +1345,7 @@ markers:
   - {type: punctuation, offset: 2295, content: 。, id: KR4h0168_krp_529-bkkpn445}
   - {type: punctuation, offset: 2302, content: 。, id: KR4h0168_krp_529-bkkpn446}
   - {type: punctuation, offset: 2303, content: (, id: KR4h0168_krp_529-bkkpn447}
+  - {type: voice, offset: 2303, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2306, content: ), id: KR4h0168_krp_529-bkkpn448}
   - {type: punctuation, offset: 2309, content: 。, id: KR4h0168_krp_529-bkkpn449}
   - {type: punctuation, offset: 2313, content: 。, id: KR4h0168_krp_529-bkkpn450}
@@ -1745,6 +1748,7 @@ markers:
   - {type: line-break, offset: 3021, content: '', id: KR4h0168_NKFB_0529-09b14}
   - {type: punctuation, offset: 3028, content: 。, id: KR4h0168_krp_529-bkkpn589}
   - {type: punctuation, offset: 3028, content: (, id: KR4h0168_krp_529-bkkpn590}
+  - {type: voice, offset: 3028, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 3031, content: ), id: KR4h0168_krp_529-bkkpn591}
   - {type: substitution, offset: 3032, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 3039, content: 。, id: KR4h0168_krp_529-bkkpn592}
@@ -2726,4 +2730,4 @@ markers:
 
       ', id: KR4h0168_krp_529-bkkkrnewl316}
   back: []
-hash: sha256:489d121d873ab7fb2ac303d0a9d8dbcc7117c88ee853c4bc6a8a80700da2da6b
+hash: sha256:a7a8b0ea39d55ab1b232e47c573b36e76c265120446f4ceaa25e25697beb79a8

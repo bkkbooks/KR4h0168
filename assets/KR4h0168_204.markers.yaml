@@ -1309,6 +1309,7 @@ markers:
   - {type: line-break, offset: 1994, content: '', id: KR4h0168_NKFB_0204-06b11}
   - {type: punctuation, offset: 1999, content: 。, id: KR4h0168_krp_204-bkkpn338}
   - {type: punctuation, offset: 1999, content: (, id: KR4h0168_krp_204-bkkpn339}
+  - {type: 'voice:problem', offset: 1999, length: 51, id: KR4h0168_bkk_204-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 1999, got ''('' at offset 2050'}
   - {type: substitution, offset: 2002, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: 'kr:newline', offset: 2016, content: '
 
@@ -3876,4 +3877,4 @@ markers:
 
       ', id: KR4h0168_krp_204-bkkkrnewl461}
   back: []
-hash: sha256:e67b3604aeb6c71c5cd9e200af950394c52e328dd9d13905bad5d70255b48f1d
+hash: sha256:347a55e88380b59cda12e3b244fc071b656d908451879dd06dc92d829e11006c
